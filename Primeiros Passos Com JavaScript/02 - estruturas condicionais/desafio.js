@@ -6,7 +6,7 @@ Você terá 5 variáveis. Sendo elas:
 2 - Preço da gasolina;
 3 - O tipo de combustível;
 4 - Gasto médio do combustível do carro por KM;
-5 - Distância em KM da viagem;
+5 - Distância em KM da viagem.
 
 Imprima no console o valor que será gasto para realizar esta viagem.
 */
