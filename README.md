@@ -26,3 +26,12 @@ O repositório está organizado de acordo com os módulos do curso, contendo exe
 <li>Objetos</li>
 <li>Classes</li>
 </ul>
+
+<br>
+
+<h2>04 - Arrays e Estruturas de Repetição em JavaScript</h2>
+
+<ul>
+<li>Arrays</li>
+<li>Estruturas de Repetição</li>
+</ul>
