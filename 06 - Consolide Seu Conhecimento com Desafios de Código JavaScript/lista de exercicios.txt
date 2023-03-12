@@ -1,0 +1,29 @@
+1 - Faça um programa que receba a média de um aluno.
+
+Caso a média seja < 5 imprima "Reprovado".
+
+Caso a média seja >= 5 e < 7 imprima "Recuperação".
+
+Caso a média seja >= 7 imprima "Aprovado".
+
+-------------------------------------
+
+2 - Faça um programa que receba N (quantidade de números) e seus respectivos valores.
+
+Imprima o maior número par e o menor número ímpar.
+
+-------------------------------------
+
+3 - Faça um programa que calcule o imprima o salário a ser transferido para um funcionário.
+
+Para realizar o cálculo receba o valor bruto do salário e o adicional dos benefícios.
+
+O salário a ser transferido é calculado da seguinte maneira:
+
+Valor bruto do salário - Percentual de imposto mediante a faixa salarial + adicional dos benefícios.
+
+Para calcular o Percentual de imposto segue as aliquotas:
+
+De R$0.00 à R$1100.00 - 5%;
+De R$1100.01 à R$2500.00 - 10%;
+Maior que R$2500.00 - 15%.
