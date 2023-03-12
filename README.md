@@ -35,3 +35,12 @@ O repositório está organizado de acordo com os módulos do curso, contendo exe
 <li>Arrays</li>
 <li>Estruturas de Repetição</li>
 </ul>
+
+<br>
+
+<h2>05 - Importação e Exportação com JavaScript</h2>
+
+<ul>
+<li>importação</li>
+<li>Exportação</li>
+</ul>
