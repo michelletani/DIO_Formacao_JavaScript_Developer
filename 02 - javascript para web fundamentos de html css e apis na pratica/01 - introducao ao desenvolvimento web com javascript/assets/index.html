@@ -19,13 +19,15 @@
 
     <!-- Link CSS -->
     <link rel="stylesheet" href="css/global.css">
+    <link rel="stylesheet" href="css/pokedex.css">
 </head>
 
 <body>
     <section class="content">
         <h1>Pokedex</h1>
 
-        <ol class="pokemons">
+        <ol id="pokemonList" class="pokemons">
+            <!-- 
             <li class="pokemon">
                 <span class="number">#001</span>
                 <span class="nome">Bulbasaur</span>
@@ -40,28 +42,20 @@
                         alt="Bulbasaur">
                 </div>
             </li>
-            <!-- <li>Ivysaur
-                <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/2.svg"
-                    alt="Ivysaur">
-            </li>
-            <li>Venusaur
-                <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/3.svg"
-                    alt="Venusaur">
-            </li>
-            <li>Charmander
-                <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/4.svg"
-                    alt="Charmander">
-            </li>
-            <li>Charmeleon
-                <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/5.svg"
-                    alt="Charmeleon">
-            </li>
-            <li>Charizard
-                <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/6.svg"
-                    alt="Charizard">
-            </li> -->
+             -->
+       
+            <!-- Pokemons aqui -->
         </ol>
+
+        <div class="pagination">
+            <button id="loadMoreButton" type="b
+            ">Load more</button>
+        </div>
     </section>
+
+    <script src="js/pokemon-model.js"></script>
+    <script src="js/poke-api.js"></script>
+    <script src="js/main.js"></script>
 </body>
 
 </html>
