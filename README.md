@@ -22,3 +22,4 @@ O repositório está organizado de acordo com os módulos do curso, contendo exe
         <li>Criando um Projeto com HTML/CSS para Listagem de Pokémon</li>
         <li>Dominando o Protocolo HTTP e Integrando com a PokeAPI</li>
     </ul>
+<a hred="https://michelletani.github.io/DIO_Formacao_JavaScript_Developer/02%20-%20javascript%20para%20web%20fundamentos%20de%20html%20css%20e%20apis%20na%20pratica/01%20-%20introducao%20ao%20desenvolvimento%20web%20com%20javascript/assets/index.html" target="_blank">Link para Pokedex </a>
